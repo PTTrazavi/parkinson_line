@@ -1,4 +1,4 @@
-# chimei_api
+# parkinson_flask_linebot
 ## How to use Docker on 201
 0. execute ngrok and edit the URL in run.py and https://developers.line.biz/console/channel/xxxxx/messaging-api
 ```bash
